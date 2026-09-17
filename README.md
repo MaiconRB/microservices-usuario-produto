@@ -1,4 +1,4 @@
-# Solução de Microsserviços
+# microservices-usuario-produto
 
 Solução de exemplo com dois microsserviços .NET independentes — **UsuarioService** e **ProdutoService** — que se comunicam entre si via HTTP. A arquitetura de cada serviço segue camadas de **Clean Architecture** (Core / Application / Infrastructure / API) e os princípios de **SOLID**.
 
